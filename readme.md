@@ -33,6 +33,16 @@ Data in This Database Stored In (Key,Value) format
     and send them to server side of project to run commands
 
 
+## What This Project Do ?
+
+This Project Simulates Redis Database Commands , Something Like `Build Your Own Redis With C\C++` Book , but we Simulate it by Python
+
+We have Some Basic Commands for `String` datatype in redis `get` and `set` commands are commands to set a new variable to databse with specific key and value
+
+### Example : 
+
+`set name mohammadreza` This command set new string variable with `name` key and `mohammadreza` value <br>
+Now We can get `mohammadreza` value with `get name` command , definitly you know that no key shouldnt be repeated more than once
 # Hope to Enjoy !
 
 this project can be good practice for python developers who has already started to learn python programming language
